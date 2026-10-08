@@ -1,0 +1,13 @@
+# Configuração local com API key - nunca versionar
+config_intelipost.json
+
+# Artefatos do PyInstaller
+build/
+dist/
+
+# Python
+__pycache__/
+*.pyc
+
+# Arquivos temporários
+temp.xlsx
